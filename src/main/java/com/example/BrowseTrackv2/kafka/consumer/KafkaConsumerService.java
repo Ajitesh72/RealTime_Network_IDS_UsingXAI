@@ -35,5 +35,6 @@ public class KafkaConsumerService {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 }
