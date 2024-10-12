@@ -1,0 +1,6 @@
+com\example\BrowseTrackv2\BrowseTrackv2Application.class
+com\example\BrowseTrackv2\model\NetworkLog.class
+com\example\BrowseTrackv2\config\ElasticsearchConfig.class
+com\example\BrowseTrackv2\config\KafkaConfig.class
+com\example\BrowseTrackv2\kafka\producer\KafkaProducerService.class
+com\example\BrowseTrackv2\kafka\consumer\KafkaConsumerService.class
